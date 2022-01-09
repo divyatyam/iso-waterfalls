@@ -1,0 +1,6 @@
+#5ec0d7 #8de762 #c503aa #ff0000
+#05b0bd #f73ca3 #817af1 #0000ff
+#4db88a #4fc497 #b202ae #0000ff
+#7232d0 #ceaa54 #0cbfce #0000ff
+#8ab799 #1176e4 #fd4b77 #0000ff
+#9ec016 #f70f8e #b811f3 #00ff00
